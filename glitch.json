@@ -1,0 +1,6 @@
+{
+  "scripts": {
+      "start": "bash start.sh",
+      "run": "java -jar ~/geyser.jar"
+  }
+}
